@@ -8,3 +8,5 @@ Digital diary application implemented using PHP, SQL, and HTML/CSS for user regi
 - Implement user authentication features including registration and login, ensuring secure data transfer between the client and server by using PHP and MySQL connection scripts to verify credentials.
 - Design a responsive and user-friendly interface for diary entry submission and management using HTML and CSS, with CSS controlling layout, styling, and form interactions for an intuitive user experience.
 - Ensure database integrity and security by utilizing structured SQL commands to manage user data, handle queries for login and diary entry storage, and implement best practices for data validation and protection against common vulnerabilities like SQL injection.
+
+![login](https://github.com/user-attachments/assets/186959b5-0818-4618-beae-511d1c123cca)
